@@ -1,0 +1,73 @@
+beta = 5
+L = 4; Energy per site = -0.697125 at T = 0.2
+L = 6; Energy per site = -0.674943 at T = 0.2
+L = 8; Energy per site = -0.670542 at T = 0.2
+L = 10; Energy per site = -0.669462 at T = 0.2
+L = 12; Energy per site = -0.668524 at T = 0.2
+L = 14; Energy per site = -0.668071 at T = 0.2
+L = 16; Energy per site = -0.66815 at T = 0.2
+
+beta = 5
+L = 4; Energy per site = -0.696788 error = 0.000639611
+L = 6; Energy per site = -0.674441 error = 0.000407949
+L = 8; Energy per site = -0.670588 error = 0.00028851
+L = 10; Energy per site = -0.668888 error = 0.000254682
+L = 12; Energy per site = -0.66848 error = 0.000240314
+L = 14; Energy per site = -0.668372 error = 0.000200954
+L = 16; Energy per site = -0.667898 error = 0.000142521
+
+
+L = 4; Energy per site = -0.696788 error = 0.000639611 at T = 0.2
+L = 4; Energy per site = -0.701817 error = 0.000276404 at T = 0.05
+
+L = 6; Energy per site = -0.674792 error = 0.000342018 at T = 0.2
+L = 6; Energy per site = -0.67851 error = 0.000220711 at T = 0.05
+
+L = 8; Energy per site = -0.670323 error = 0.000217096 at T = 0.2
+L = 8; Energy per site = -0.673376 error = 9.49528e-05 at T = 0.05
+
+L = 10; Energy per site = -0.668734 error = 0.000219057 at T = 0.2
+L = 10; Energy per site = -0.671304 error = 0.000106686 at T = 0.05
+
+L = 12; Energy per site = -0.668065 error = 0.000138522 at T = 0.2
+L = 12; Energy per site = -0.670131 error = 0.000142298 at T = 0.05
+
+L = 14; Energy per site = -0.667907 error = 0.000225214 at T = 0.2
+L = 14; Energy per site = -0.670154 error = 8.63466e-05 at T = 0.05
+
+L = 16; Energy per site = -0.667882 error = 0.000227787 at T = 0.2
+L = 16; Energy per site = -0.669808 error = 8.95341e-05 at T = 0.05
+
+
+
+
+// newest version, my computer
+beta = 5
+beta = 25
+L = 4; Energy per site = -0.697125 error = 0.000420198 at T = 0.2
+L = 4; Energy per site = -0.702222 error = 0.000320318 at T = 0.04
+
+L = 6; Energy per site = -0.674603 error = 0.00032269 at T = 0.2
+L = 6; Energy per site = -0.678754 error = 0.000235557 at T = 0.04
+
+L = 8; Energy per site = -0.670179 error = 0.000229936 at T = 0.2
+L = 8; Energy per site = -0.673281 error = 0.000165175 at T = 0.04
+
+L = 10; Energy per site = -0.668836 error = 0.000325101 at T = 0.2
+L = 10; Energy per site = -0.670937 error = 0.000100122 at T = 0.04
+
+L = 12; Energy per site = -0.668171 error = 0.000289796 at T = 0.2
+L = 12; Energy per site = -0.670605 error = 0.000125062 at T = 0.04
+
+L = 14; Energy per site = -0.668167 error = 0.000149018 at T = 0.2
+L = 14; Energy per site = -0.670057 error = 6.58445e-05 at T = 0.04
+
+L = 16; Energy per site = -0.667715 error = 0.000171804 at T = 0.2
+L = 16; Energy per site = -0.669945 error = 8.30506e-05 at T = 0.04
+
+
+
+
+
+
+
